@@ -75,6 +75,7 @@ The program will:
 ## Important Note
 
 This tool is intended for educational and authorized security testing only. Do not scan hosts or networks without permission from the owner.
+This tool was created purely for educational purposes.
 
 ## Files
 
