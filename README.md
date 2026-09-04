@@ -15,6 +15,7 @@ A simple Python network scanning tool that checks for open ports, grabs service 
 Before running the script, make sure you have:
 
 - Python 3 installed
+- Run `pip install requirements.txt` to install all requirements
 - `nmap` installed on your system
 - The Python packages in your environment
 
